@@ -40,7 +40,7 @@ trait HasReviews
 
     public function getRating(): float
     {
-        return round($this->reviews()->avg('rating'));
+        return round((int) $this->reviews()->avg('rating'));
     }
 
     protected function getReviewModel(): Model
