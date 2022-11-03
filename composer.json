@@ -10,7 +10,7 @@
     "license": "MPL-2.0",
     "authors": [{
         "name": "Brian Faust",
-        "email": "hello@basecode.sh",
+        "email": "i.devin@creotech.org",
         "homepage": "https://github.com/idevin/laravel-reviewable"
     }],
     "require": {
@@ -48,5 +48,5 @@
         }
     },
     "minimum-stability": "dev",
-    "prefer-stable": false
+    "prefer-stable": true
 }
