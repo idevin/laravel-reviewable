@@ -1,5 +1,5 @@
 {
-        "name": "idevin/reviewable",
+    "name": "idevin/reviewable",
     "description": "Reviewable Polymorphic Eloquent Models for Laravel 5",
     "keywords": [
         "laravel",
