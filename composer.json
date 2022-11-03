@@ -1,5 +1,5 @@
 {
-    "name": "artisanry/reviewable",
+        "name": "idevin/reviewable",
     "description": "Reviewable Polymorphic Eloquent Models for Laravel 5",
     "keywords": [
         "laravel",
@@ -11,10 +11,10 @@
     "authors": [{
         "name": "Brian Faust",
         "email": "hello@basecode.sh",
-        "homepage": "https://basecode.sh"
+        "homepage": "https://github.com/idevin/laravel-reviewable"
     }],
     "require": {
-        "php": "^8.0|^8.1",
+        "php": ">=8.0",
         "illuminate/support": "^9.0",
         "illuminate/database": "^9.0"
     },
@@ -48,5 +48,5 @@
         }
     },
     "minimum-stability": "dev",
-    "prefer-stable": true
+    "prefer-stable": false
 }
